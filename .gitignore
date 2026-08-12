@@ -12,3 +12,6 @@ skills/opencode-prompt-optimizer/
 
 The opencode-prompt-optimizer skill contains proprietary configuration and 
 integrations specific to this user's setup. It should not be shared publicly.
+
+# Local-only skills (not for public repository)
+skills/vooodoo-os-setup/
